@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">A fortuna fica ao lado daquele que ousa. - Virgil</string>
+    <string name="affirmation2">Você deve esperar grandes coisas de você mesmo antes de poder faze-las. - Michael Jordan</string>
+    <string name="affirmation3">Ninguém pode fazer você se sentir inferior sem o seu consentimento. - Eleanor Roosevelt</string>
+    <string name="affirmation4">Ninguém é assim tão velho que não acredite que poderá viver por mais um ano. - Cícero</string>
+    <string name="affirmation5">O número dos que nos invejam confirma as nossas capacidades. - Oscar Wilde</string>
+    <string name="affirmation6">Só se pode alcançar um grande êxito quando nos mantemos fiéis a nós mesmos. - Friedrich Nietzsche</string>
+    <string name="affirmation7">O ponto de partida de toda conquista é o desejo. - Napolean Hill</string>
+    <string name="affirmation8">O seu problema não é o problema. A sua reação é o problema. - Anonymous</string>
+    <string name="affirmation9">Como se fosse possível matar o tempo sem ferir a eternidade. - Henry David Thoreau</string>
+    <string name="affirmation10">O êxito é fácil de obter. O difícil é merecê-lo. - Albert Camus</string>
+</resources>
